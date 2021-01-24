@@ -1,6 +1,6 @@
 """
     Autora: laisdumont
-    Data: 23/01/21
+    Data: 24/01/21
     Desafio: 1019 - Conversão de Tempo
 """
 # -*- coding: utf-8 -*-
