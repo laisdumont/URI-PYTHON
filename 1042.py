@@ -1,4 +1,5 @@
 """
+    Autora: laisdumont
     Data: 24/01/21
     Desafio: 1042 - Sort simples
 """
